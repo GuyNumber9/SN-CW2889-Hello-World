@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-06-12 16:17:25</sys_created_on>
+        <sys_id>cbac56221b91101060191067bc4bcbc3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_79295_ccw2889_he_message.x_79295_ccw2889_he.hello_user</sys_name>
+        <sys_package display_value="CCW2889 Hello World" source="x_79295_ccw2889_he">eecbdeae1b51101060191067bc4bcb5a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2889 Hello World">eecbdeae1b51101060191067bc4bcb5a</sys_scope>
+        <sys_security_acl display_value="x_79295_ccw2889_he_message">83ac56221b91101060191067bc4bcbc1</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cbac56221b91101060191067bc4bcbc3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-06-12 16:17:25</sys_updated_on>
+        <sys_user_role display_value="x_79295_ccw2889_he.hello_user" name="x_79295_ccw2889_he.hello_user">93eb1e621b11101060191067bc4bcbee</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
